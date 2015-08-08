@@ -4,7 +4,7 @@ module.exports = {
   email: "correo electrónico",
   firstName: "nombre",
   language: "idioma",
-  lastName: "apellidos",
+  lastName: "apellido",
   login: "inicio de sesión",
   logout: "cerrar sesión",
   name: "nombre",
